@@ -10,10 +10,10 @@
 | --- | --- |
 | [dsh-life-panels](https://github.com/elanchou/dsh-life-panels) | Calendar, news, reading list, travel, podcast and GitHub cloud-sync plugins for DeepSeek Harness |
 | [dsh-personal-assistant](https://github.com/elanchou/dsh-personal-assistant) | Voice assistant plugin for DeepSeek Harness: call it on Telegram, or let it call you. Built on LiveKit |
-| [a.](https://github.com/elanchou/a.) | Agentic trading frontend |
-| [Hawk](https://github.com/elanchou/Hawk) | AI-driven high-frequency cryptocurrency trading system |
-| [MProxy](https://github.com/elanchou/MProxy) | Proxy manager with per-node local ports, a web UI and Docker support, powered by Mihomo |
-| [mnemonic_splitter](https://github.com/elanchou/mnemonic_splitter) | Splits and reconstructs mnemonic phrases with an overlapping-window scheme |
+| [agentic-trading](https://github.com/elanchou/agentic-trading) | Agentic trading frontend |
+| [hawk](https://github.com/elanchou/hawk) | AI-driven high-frequency cryptocurrency trading system |
+| [mproxy](https://github.com/elanchou/mproxy) | Proxy manager with per-node local ports, a web UI and Docker support, powered by Mihomo |
+| [mnemonic-splitter](https://github.com/elanchou/mnemonic-splitter) | Splits and reconstructs mnemonic phrases with an overlapping-window scheme |
 
 ## Languages and tools
 
